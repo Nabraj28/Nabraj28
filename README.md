@@ -9,9 +9,9 @@ I'm a Frontend Developer with a strong focus on delivering high-performance, res
 ## 💼 Experience
 
 I've successfully delivered production-ready applications across various domains:
-- **Project Bidding Platforms** – Built dynamic bidding systems with real-time updates
-- **E-commerce Solutions** – Developed full-featured online stores with payment integrations
-- **Ticketing Systems** – Created efficient booking and management platforms
+- **Project Bidding Platforms** – Contributed to dynamic bidding systems with real-time updates
+- **E-commerce Solutions** – Contributed to full-featured online stores with payment integrations
+- **Ticketing Systems** – Contributed to efficient booking and management platforms
 
 ## 🛠️ Tech Stack
 
