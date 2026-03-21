@@ -1,4 +1,4 @@
-# Hi, I'm Nab Raj Poudel 👋
+# Hi, I'm Nab Raj Poudel 
 
 Frontend Developer specializing in building scalable, user-centric web applications with modern technologies.
 
