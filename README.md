@@ -2,18 +2,18 @@
 
 Frontend Developer specializing in building scalable, user-centric web applications with modern technologies.
 
-## 🚀 About Me
+## About Me
 
 I'm a Frontend Developer with a strong focus on delivering high-performance, responsive web solutions. I specialize in creating seamless user experiences and translating complex requirements into clean, maintainable code. My experience spans across building diverse applications including bidding platforms, e-commerce solutions, and ticketing systems.
 
-## 💼 Experience
+## Experience
 
 I've successfully delivered production-ready applications across various domains:
 - **Project Bidding Platforms** – Contributed to dynamic bidding systems with real-time updates
 - **E-commerce Solutions** – Contributed to full-featured online stores with payment integrations
 - **Ticketing Systems** – Contributed to efficient booking and management platforms
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
