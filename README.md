@@ -1,4 +1,4 @@
-<strong style="font-size: 2em;">Namaste, I'm Nab Raj Poudel</strong>
+<strong style="font-size: 4em;">Namaste, I'm Nab Raj Poudel</strong>
 Frontend developer. I've shipped bidding platforms, e-commerce stores, and ticketing systems, the kind of apps where real-time state and payment flows have to just work.
 
 **What I've built & contributed to**
