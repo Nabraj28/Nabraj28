@@ -1,4 +1,4 @@
-# Namaste, I'm Nab Raj Poudel
+## Namaste, I'm Nab Raj Poudel
 **Frontend developer**. I've shipped bidding platforms, e-commerce stores, and ticketing systems, the kind of apps where real-time state and payment flows have to just work.
 
 **What I've built & contributed to**
