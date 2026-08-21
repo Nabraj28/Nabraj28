@@ -7,7 +7,7 @@
 - **Ticketing system** — engineered event-driven dynamic forms that adapt without code changes, plus contributions to the admin dashboard
 
 **Stack:**
-React.js · React Native · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · MongoDB
+React.js · Next.js · React Native · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · MongoDB
 
 **Find me**
 - Portfolio: [nabrajpoudel.com.np](https://www.nabrajpoudel.com.np/)
